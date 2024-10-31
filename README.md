@@ -1,8 +1,11 @@
 
 # CryptoTracker 
 
-This is a simple android application that tracks famous crypto coins rate and their change in last 24 hours. This application is responsive, so it works seamlessly on tablets and iPads
+This simple Android application tracks famous crypto coins rate and their change in the last 24 hours. This application is responsive, so it works seamlessly on tablets and iPads
 
+## Application Screenshots
+
+![WhatsApp Image 2024-10-31 at 12 02 18_4a6e5314](https://github.com/user-attachments/assets/47357c8b-6013-4613-ba78-16aabe3d301d)![WhatsApp Image 2024-10-31 at 12 02 40_c17b4dfb](https://github.com/user-attachments/assets/f0cfdf3e-122f-4de4-ba5b-041a187c0729)![WhatsApp Image 2024-10-31 at 12 03 00_3f7a812f](https://github.com/user-attachments/assets/1cdf92de-14e2-4083-b498-640a9934d3bf)
 
 ## Architecture Used
 
@@ -19,7 +22,7 @@ Follow the below steps to get started with the project running on your system.
 
 ### Installation
 
-1. Dowload the zip file 
+1. Download the zip file 
 ![how to download zip file](https://www.guru99.com/images/3/download-files-from-github-9.png)
 
 2. Extract the zip file in your system
